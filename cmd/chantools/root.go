@@ -125,6 +125,7 @@ func main() {
 		newChanBackupCommand(),
 		newClosePoolAccountCommand(),
 		newCreateWalletCommand(),
+		newClearRemoteMarkerCommand(),
 		newCompactDBCommand(),
 		newDeletePaymentsCommand(),
 		newDeriveKeyCommand(),
